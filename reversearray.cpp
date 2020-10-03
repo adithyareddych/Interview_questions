@@ -44,5 +44,5 @@ int main()
     // To print the Reversed array
     printArray(arr, n);
      
-    return 0;
+   
 }
