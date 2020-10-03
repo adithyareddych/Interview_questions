@@ -31,5 +31,5 @@ int main()
         printf("Rectangles Overlap"); 
     else
         printf("Rectangles Don't Overlap"); 
-    return 0; 
+     
 }
