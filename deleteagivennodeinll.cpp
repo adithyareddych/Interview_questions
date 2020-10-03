@@ -120,5 +120,5 @@ int main()
   
     cout<<"\nModified Linked List: ";  
     printList(head);  
-      
+    return 0;  
 }  
