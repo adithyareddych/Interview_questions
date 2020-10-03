@@ -69,7 +69,6 @@ int main()
         push(&head, i);  
         printList(head);  
         printMiddle(head);  
-    }  
-  
-    return 0;  
+    } 
+    
 }  
