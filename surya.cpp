@@ -11,5 +11,5 @@ int main()
     swap(a, b); 
     cout << "Value of a now: " << a << endl; 
     cout << "Value of b now: " << b << endl; 
-    
+    return 0;
 } 
